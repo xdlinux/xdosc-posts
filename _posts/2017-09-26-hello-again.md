@@ -5,33 +5,44 @@ date: 2017-09-26
 author: ckj
 categories: blog
 ---
-## misc
+# title 1
+## title 2
+### title 3
+#### title 4
+##### title 5
+###### title 6
 
-* **strong**
-* _italic_
-* ~~delele~~
-* `backquote`
+## text
 
-## links
+It's very easy to make some words **bold** and some words *italic* with Markdown.  
+And maybe also some `inline code` or some words ~~deleled~~.  
+You can even [link to xdlinux](https://linux.xidian.edu.cn) !
 
-1. [mirrors](https://mirrors.xdlinux.info)
-2. [wiki](https://wiki.xdlinux.info)
-3. [forum](https://bbs.xdlinux.info)
-4. [git](https://git.xdlinux.info)
+## list
 
-## code highlight
+### unordered
 
-### Haskell
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
-{% highlight haskell %}
-sort [] = []
-sort (x:xs) = sort lower ++ [x] ++ sort higher
-    where
-        lower = filter (< x) xs
-        higher = filter (>= x) xs
-{% endhighlight %}
+### ordered
 
-### Julia
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
+
+## table
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+## code
 
 {% highlight julia %}
 function mandel(z)
@@ -67,3 +78,4 @@ end
 ## quote
 
 > Those who do not understand Unix are condemned to reinvent it, poorly
+
