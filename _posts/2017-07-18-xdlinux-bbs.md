@@ -3,7 +3,7 @@ layout: post
 title: 论坛“重新”上线
 date: 2017-07-18
 author: ckj
-categories: blog
+categories: news
 ---
 
 基于 [Flarum](flarum.org)

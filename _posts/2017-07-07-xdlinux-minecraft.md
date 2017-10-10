@@ -3,7 +3,7 @@ layout: post
 title: Minecraft Server 上线
 date: 2017-07-07
 author: ckj
-categories: blog
+categories: news
 ---
 
 Ver 1.12 原版生存

@@ -3,7 +3,7 @@ layout: post
 title: hello (again)
 date: 2017-09-26
 author: ckj
-categories: blog
+categories: news
 ---
 # title 1
 ## title 2

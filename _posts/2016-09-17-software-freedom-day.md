@@ -5,7 +5,7 @@ date: 2016-09-17
 time: 9:00-17:00
 location: E-II-523
 author: Eyr3
-categories: event
+categories: events
 ---
 校园里中秋的气氛还未消散，微微潮湿的空气中氤氲着淡淡的桂花香，刚圆满结束大一招新的西电开源社区就热闹了起来。
 

@@ -3,7 +3,7 @@ layout: post
 title: Git 代码托管上线
 date: 2017-07-06
 author: ckj
-categories: blog
+categories: news
 ---
 
 使用 [Gogs][1] 搭建。

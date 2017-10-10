@@ -3,7 +3,7 @@ layout: post
 title: "deb-multimedia 同步方式更新"
 date: 2017-03-29
 author: ckj
-categories: news
+categories: announcements
 ---
 
 ## changelog

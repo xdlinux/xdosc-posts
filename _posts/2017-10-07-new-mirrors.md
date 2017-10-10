@@ -3,7 +3,7 @@ layout: post
 title: "新增 Termux 镜像"
 date: 2017-10-07
 author: wizard
-categories: news
+categories: announcements
 ---
 
 ## changelog

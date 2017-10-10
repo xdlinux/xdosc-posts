@@ -3,7 +3,7 @@ layout: post
 title: "XDLinux 域名更新小记"
 date: 2017-10-02
 author: ckj
-categories: blog
+categories: news
 ---
 > The Domain is dead, long live The Domain!
 

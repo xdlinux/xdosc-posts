@@ -3,7 +3,7 @@ layout: post
 title: "Kali, Deepin 同步方式更新"
 date: 2017-04-11
 author: ckj
-categories: news
+categories: announcements
 ---
 
 ## changelog

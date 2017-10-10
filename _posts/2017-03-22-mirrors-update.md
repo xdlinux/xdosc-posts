@@ -3,7 +3,7 @@ layout: post
 title: "Ubuntu, Debian 同步方式更新"
 date: 2017-03-22
 author: ckj
-categories: news
+categories: announcements
 ---
 
 ## changelog

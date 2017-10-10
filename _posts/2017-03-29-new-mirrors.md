@@ -3,7 +3,7 @@ layout: post
 title: "新增 debian-security 源"
 date: 2017-03-29
 author: ckj
-categories: news
+categories: announcements
 ---
 
 ## changelog

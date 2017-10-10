@@ -5,7 +5,7 @@ date: 2017-09-23
 time: 9:30-12:00
 location: B-303
 author: anonymous
-categories: event
+categories: events
 ---
 
 ![sfd](/picture/2017-sfd/sfd.svg)

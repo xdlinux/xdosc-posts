@@ -3,7 +3,7 @@ layout: post
 title: "[Jan 2017] 软件源使用统计"
 date: 2017-02-06
 author: bot
-categories: report
+categories: reports
 ---
 ```
 ENTRY                 SUCCESS    ERR=404

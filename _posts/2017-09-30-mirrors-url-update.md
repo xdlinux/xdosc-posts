@@ -3,7 +3,7 @@ layout: post
 title: "软件源URL永久更新"
 date: 2017-09-30
 author: ckj
-categories: news
+categories: announcements
 ---
 
 由于非技术上的原因，

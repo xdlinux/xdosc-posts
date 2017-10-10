@@ -3,7 +3,7 @@ layout: post
 title: "新增 homebrew-cask 镜像"
 date: 2017-10-03
 author: ckj
-categories: news
+categories: announcements
 ---
 
 ## changelog

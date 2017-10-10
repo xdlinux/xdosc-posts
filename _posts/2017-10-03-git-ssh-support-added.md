@@ -3,7 +3,7 @@ layout: post
 title: "Git 服务支持 SSH 了"
 date: 2017-10-03
 author: ckj
-categories: blog
+categories: news
 ---
 应 [sz1 同学的反馈][1]，我们的 `Git 服务` 支持 `SSH` 了。
 

@@ -5,7 +5,7 @@ date: 2017-10-02
 time: 15:30-19:00
 location: E-III-309
 author: ckj
-categories: event
+categories: events
 ---
 ![Hacking Thursday](/picture/h4/h4.png)
 

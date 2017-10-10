@@ -3,7 +3,7 @@ layout: post
 title: "[Mar 2017] 软件源使用统计"
 date: 2017-04-01
 author: ckj
-categories: report
+categories: reports
 ---
 ```
 ENTRY                 SUCCESS    ERR=404

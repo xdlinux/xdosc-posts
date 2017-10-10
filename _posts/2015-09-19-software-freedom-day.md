@@ -5,7 +5,7 @@ date: 2015-09-19
 time: 14:00-20:00
 location: 大活511
 author: lumin
-categories: event
+categories: events
 ---
 
 2015年9月19日，又是一年一度的SFD，西电开源社区在大活511举办了今年的活动。

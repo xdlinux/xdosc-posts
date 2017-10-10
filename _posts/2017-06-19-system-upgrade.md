@@ -3,7 +3,7 @@ layout: post
 title: 我们升级到了 Debian Stretch
 date: 2017-06-19
 author: ckj
-categories: blog
+categories: news
 ---
 
 祝贺 Debian 9 (Stretch) 发布！

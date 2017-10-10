@@ -5,7 +5,7 @@ date: 2017-10-08
 time: 14:30-18:30
 location: 图书馆 A102
 author: ckj
-categories: event
+categories: events
 ---
 ![Hacking Thursday](/picture/h4/h4.png)
 

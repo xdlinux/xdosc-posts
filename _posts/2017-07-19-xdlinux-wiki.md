@@ -3,7 +3,7 @@ layout: post
 title: Wiki “重新”上线
 date: 2017-07-19
 author: ckj
-categories: blog
+categories: news
 ---
 
 基于 [Wiki.js](wiki.js.org)
