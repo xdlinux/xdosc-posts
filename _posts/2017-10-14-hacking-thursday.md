@@ -23,3 +23,5 @@ categories: events
   * 需要有人记录活动
 
 ## 活动记录
+
+人还不多的时候，ckj 先介绍了一下怎么给主页发 posts。
