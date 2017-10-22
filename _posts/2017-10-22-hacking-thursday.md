@@ -2,9 +2,9 @@
 layout: post
 title: XDLinux 每周小聚
 date: 2017-10-22
-time: 13:00-15:00
+time: 13:00-15:30
 location: 图书馆 A102
-author: ckj
+author: 老司机
 categories: events
 ---
 ![Hacking Thursday](/picture/h4/h4.png)
@@ -17,9 +17,11 @@ categories: events
 
 ## 事务
 
-* 新的活动室 —— 布置场地。
-* 整理文档 —— 等到新的活动室？
-* tee —— 继续拖延，特意举办一个活动？
-* 重绘 Logo —— 我来接锅吧
+* 新的活动室
+* 整理文档
+* 无限拖延的 tee
+* 重绘 Logo
 
 ## 活动记录
+
+由于 wizard 没有来，Emacs 方缺席，变成了 Vim 安利大会……
