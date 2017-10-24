@@ -26,19 +26,23 @@ categories: events
 
 由于 wizard 没有来，Emacs 方缺席，变成了 Vim 安利大会……
 
-开始，老司机介绍了各种常见的编辑器，`Vim`、`Emacs`、`nano`、`Atom`、`Sublime Text 3`……顺带介绍了一下他的常见搭配：`vim` 、`nano`、`VSCode`、`Sublime Text 3`。中间fsdf:wq
-j普及了一下编辑器和IDE的区别。
+开始，老司机介绍了各种常见的编辑器，`Vim`、`Emacs`、`nano`、`Atom`、`Sublime Text 3`……顺带介绍了一下他的常见搭配：`vim` 、`nano`、`VSCode`、`Sublime Text 3`。中间普及了一下编辑器和IDE的区别。
 
-随后，ckj开始介绍他的二房————古老的ThinkPad以及OpenBSD。主要介绍了BSD的三大分支——freeBSD、openBSD、nextBSD，OpenBSD的历史、在OpenBSD下的一些骚操作（终端分屏、大小调整等等），给大家安利了一波`vim`，另完现场演示了一些常见的软件————GCC、Clang等等。当谈到如何上手命令行，上手Linux，推荐了三种发行版给大家————Ubuntu、Debian、Arch，并分别介绍了各个发行版的特点。
+随后，ckj 介绍了 `vim` 的一些操作，如何提高编辑效率，以及 `hjkl` 教义的引申：
+自己写的 `VimSnake` 游戏，在 `i3` 下的快捷键（分屏、大小调整等等）。
 
-![@ckj telling BSD](/picture/h4/2017-10-22_1.jpg)
+![@ckj talking CLI](/picture/h4/2017-10-22_1.jpg)
 
-![@ckj telling BSD](/picture/h4/2017-10-22_2.jpg)
+之后就是讲命令行，从原理开始（`argc`、`argv`、`$PATH`），讲到管道、重定向、命令的组合。
+以及用 `man` 查看帮助，另外还演示了一些常用的软件的用法，比如如编辑完之后怎么用 `gcc` 编译。
 
-最后，ddy带着大家熟悉了一下git的使用，三个命令入门git————`git add`、`git commit`、`git push`。
+![@ckj talking CLI](/picture/h4/2017-10-22_2.jpg)
 
-![@ddy teaching git](/picture/h4/2017-10-22_3.jpg)
+然后 ckj 开始介绍 OpenBSD。它与 GNU/Linux 以及其它 BSD 的异同。保持简单正确还是追求功能强大的追求。
+顺便对比了 Ubuntu、Debian、Arch，介绍了它们的版本发行方式。
 
+最后，ddy 带着大家熟悉了一下git的使用，安利了一本书，三个命令入门git————`git add`、`git commit`、`git push`。
 
+![@ddy talking git](/picture/h4/2017-10-22_3.jpg)
 
 本次的Hacking Thursday到此为止。
