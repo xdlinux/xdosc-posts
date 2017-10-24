@@ -36,13 +36,11 @@ categories: events
 之后就是讲命令行，从原理开始（`argc`、`argv`、`$PATH`），讲到管道、重定向、命令的组合。
 以及用 `man` 查看帮助，另外还演示了一些常用的软件的用法，比如如编辑完之后怎么用 `gcc` 编译。
 
-![@ckj talking CLI](/picture/h4/2017-10-22_2.jpg)
-
 然后 ckj 开始介绍 OpenBSD。它与 GNU/Linux 以及其它 BSD 的异同。保持简单正确还是追求功能强大的追求。
 顺便对比了 Ubuntu、Debian、Arch，介绍了它们的版本发行方式。
 
 最后，ddy 带着大家熟悉了一下git的使用，安利了一本书，三个命令入门git————`git add`、`git commit`、`git push`。
 
-![@ddy talking git](/picture/h4/2017-10-22_3.jpg)
+![@ddy talking git](/picture/h4/2017-10-22_2.jpg)
 
 本次的Hacking Thursday到此为止。
