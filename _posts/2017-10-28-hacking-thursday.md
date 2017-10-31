@@ -7,7 +7,7 @@ location: 图书馆 A102
 author: 老司机
 categories: events
 ---
-![Hacking Thursday](/picture/h4/h4/png)
+![Hacking Thursday](/picture/h4/h4.png)
 
 ## 话题
 
