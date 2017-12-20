@@ -6,7 +6,7 @@ author: ckj
 categories: announcements
 ---
 
-一个对于 Windows 和 macOS 用户的好消息：
+_一个对于 Windows 和 macOS 用户的好消息。_
 
 虽然没有人重开 issue，但是从 nginx log 中还是能看到：
 有许多 Windows 和 macOS 用户想要使用 Anaconda 镜像。
