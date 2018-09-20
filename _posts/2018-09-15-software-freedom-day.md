@@ -8,11 +8,15 @@ author: wi24rd
 categories: events
 ---
 
-一年一度的“软件自由日西电站”，9月15日（星期六）晚上7点至9点，在大学生活动中心511举行，无论你是萌新还是大佬，小鲜肉还是老腊肉，我们都欢迎你的参加。自由软件——捍卫计算机用户分享和改进软件的自由。
+一年一度的“软件自由日西电站”，9月15日（星期六）晚上7点至9点，在大学生活动中心511举行。
+
+自由软件——捍卫计算机用户分享和改进软件的自由。
+
+由于场地时间安排，很遗憾未能有机会欣赏信安协会的演讲，闪电演讲未能展开，让我们下次再会！
 
 ## 演讲
 
-* wi24rd:   Introduction to Free Software       软件自由之道
+* wi24rd:   Introduction to Free Software       自由软件之道
 * xry111:   How to build Linux From Scratch     从零开始构建 Linux
 * Han Han:  Open Source, Fedora and Red Hat EXP 开源五年：从入坑到不弃
 * TG:       Wi-Fi security with Python          无线安全与 Python
@@ -23,6 +27,15 @@ categories: events
 ![海报.png](/picture/2018-sfd/海报.png)
 
 ![传单.png](/picture/2018-sfd/传单.png)
+
+[活动照片.zip](https://linux.xidian.edu.cn/misc/2018SFDPIC.zip)
+
+## 幻灯片
+
+[wi24rd: 自由软件之道](https://linux.xidian.edu.cn/misc/2018-sfd-wi24rd.pdf)
+
+[xry111: 从零构建 Linux](https://bf.mengyan1223.wang/assets/sfd2018-lfs.pdf) 备注：[CC BY-NC-SA 2.0](http://www.linuxfromscratch.org/lfs/view/8.3/appendices/creat-comm.html)，[XeLaTeX 代码和素材](https://bf.mengyan1223.wang/assets/sfd2018/)
+
 
 ## 赞助
 
